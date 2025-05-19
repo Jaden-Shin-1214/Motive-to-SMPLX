@@ -5,3 +5,7 @@ My work based on Mocap-to-SMPLX (CVPR2024) https://github.com/LvXinTao/Mocap-to-
 
 <img width="279" alt="Demo" src="https://github.com/user-attachments/assets/bdb91823-ce8e-4532-90a6-e3fe31f86d00" />
 
+## Preparation 
+
+1. First prepare code with Original Mocap-to-SMPLX
+2. 
